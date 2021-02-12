@@ -1,5 +1,5 @@
 # IMDB-Sentiment-Analysis-
-* the main goal of this project is bluiding an NLP model for sentiment analysis on IMDB using LSTM and BILSTM ,
+* the main goal of this project is bluiding an NLP model for sentiment analysis on IMDB dataset using LSTM and BILSTM ,
 we follow a certain number of stypes for this work :
 * data prepocessing
 * building our LSTM/BILSTM model
